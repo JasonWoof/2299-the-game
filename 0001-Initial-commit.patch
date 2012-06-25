@@ -1,0 +1,24 @@
+From 2a9d471c4d688f90b2d14a4d03ad6b27f6c93095 Mon Sep 17 00:00:00 2001
+From: Bryan Lunduke <bryanlunduke@gmail.com>
+Date: Mon, 11 Jun 2012 09:33:30 -0700
+Subject: [PATCH] Initial commit
+
+---
+ README.md |    4 ++++
+ 1 file changed, 4 insertions(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..c828cf8
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,4 @@
++2299-the-game
++=============
++
++2299 : THE GAME - Adventure Game set in the 2299 Universe
+\ No newline at end of file
+-- 
+1.7.9.5
+
